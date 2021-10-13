@@ -23,4 +23,8 @@
     <project name="jiangsai/j1_main.git" path="j1_main" revision="master"/>
     <project name="jiangsai/j1_modules_commonview" path="j1_main/modules/j1_modules_commonview" revision="master"/>
     <project name="jiangsai/j1_modules_skin" path="j1_main/modules/j1_modules_skin" revision="master"/>
+
+    <!--基础modules-->
+    <project name="jiangsai/j1_basemodules" path="j1_main/basemodules/j1_basemodules" revision="master"/>
+
 </manifest>
